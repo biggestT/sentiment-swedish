@@ -9,6 +9,7 @@ avskyr -3
 avskydde -3
 motbjudande -3
 avskyr -3
+borta -1
 förmågor 2
 förmåga 2
 ombord 1
@@ -765,6 +766,7 @@ underskott -2
 deformeras -2
 missbildningar -2
 deformitet -2
+form 2
 bedra -3
 defrauds -3
 skickliga 2
@@ -1271,6 +1273,8 @@ trötthet -2
 trött -2
 strapatser -2
 trött -2
+glänst 3
+glänser 2
 gynna 2
 gynnsamma 2
 gynnsamt 2
@@ -1284,6 +1288,7 @@ gynna 2
 gynnsamma 2
 gynnsamt 2
 gynnade 2
+ledningen 2
 favorit 2
 favourited 2
 favoriter 2
@@ -2402,6 +2407,7 @@ uppskjutas -1
 skjuter -1
 uppskjutande -1
 fattigdom -1
+krafter kvar 2
 kraftfull 2
 kraftlös -2
 beröm 3
