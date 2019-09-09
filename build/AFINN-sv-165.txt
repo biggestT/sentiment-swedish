@@ -4,6 +4,7 @@ givna -2
 kidnappade -2
 bortförande -2
 kidnappningar -2
+extra 2
 avskyr -3
 avskydde -3
 motbjudande -3
@@ -13,6 +14,10 @@ förmåga 2
 ombord 1
 avbruten -1
 avbryter -1
+besitter 2
+duktig 2
+fartfylld 2
+fin fart 2
 frånvarande -1
 frånvarande -1
 frikänna 2
@@ -430,8 +435,7 @@ annulleras -1
 avbryta -1
 avbryter -1
 cancer -1
-kapacitet 1
-kapacitet 1
+kapacitet 2
 kapabel 1
 fångade 3
 bryr 2
@@ -682,7 +686,7 @@ kritiker -2
 kritik -2
 utträngning -1
 rå -1
-grym -3
+grym 3
 grymhet -3
 krossa -1
 krossad -2
@@ -892,6 +896,7 @@ oangenäm -2
 oenighet -2
 försvinna -1
 försvann -1
+vann lätt 3
 försvinner -1
 svika -2
 besviken -2
@@ -1014,7 +1019,7 @@ donerade 2
 donerar 2
 donera 2
 donation 2
-gillar -2
+gillar 2
 undergång -2
 dömd -2
 tvivel -1
@@ -1111,6 +1116,7 @@ fängslande 3
 njuta av 2
 trevlig 2
 haft 2
+haft svårt -3
 njuter 2
 åtnjuter 2
 upplysa 2
@@ -1269,6 +1275,7 @@ gynna 2
 gynnsamma 2
 gynnsamt 2
 gynnade 2
+gynnad 2
 favorit 2
 favorit 2
 favoriter 2
@@ -1416,6 +1423,7 @@ gag -2
 munkavle -2
 vinna 2
 vunnits 2
+vunnit 2
 vinner 2
 vinner 2
 galant 3
@@ -1446,6 +1454,7 @@ goddamn -3
 gudagåva 4
 guld 2
 bra 3
+bra kapacitet 3
 goodlooking 3
 goodmorning 1
 godhet 3
@@ -1811,9 +1820,11 @@ integritet 2
 intelligent 2
 intensiv 1
 ränta 1
+mager -2
 intresserad 2
 intressant 2
 intressen 1
+jättehet 4
 förhörs -2
 avbryta -2
 avbruten -2
@@ -2174,6 +2185,8 @@ nerver -1
 nervös -2
 nervöst -2
 fin 3
+alltid topp 2
+alltid vunnit 3
 tjusig 2
 niggas -5
 neger -5
@@ -2185,8 +2198,13 @@ bullriga -1
 icke godkänd -2
 nonsens -2
 noob -2
+måste räknas 2
 Nosy -2
+kuskplus 2
 inte bra -2
+inte så tokig 2
+vass speed 3
+inte vunnit -2
 fungerar inte -3
 anmärkningsvärd 2
 märkbar 2
@@ -2223,8 +2241,10 @@ brott -2
 stötande -2
 offensivt -2
 offline -1
+ojämn -1
 OKS 2
 illavarslande 3
+illa -2
 once-in-a-lifetime 3
 oops -2
 möjligheter 2
@@ -2305,6 +2325,8 @@ straffa -2
 straff -2
 tankfull -1
 perfekt 3
+tuffing 2
+trivs 2
 fulländat 2
 perfektion 3
 perfekt 3
@@ -2890,6 +2912,7 @@ konstigt -1
 underligt -1
 strypt -2
 styrka 2
+jobbigt -2
 stärka 2
 stärkas 2
 förstärkning 2
@@ -2907,6 +2930,8 @@ stark 2
 starkare 2
 starkast 2
 slog -1
+tidig galopp -2
+galopp -2
 kämpa -2
 kämpat -2
 kamp -2
@@ -2984,9 +3009,11 @@ sötare 3
 sweetest 3
 swift 2
 snabbt 2
+snabb 2
 lura -3
 bedrägerier -3
 svindleri -3
+galloperat -2
 sympatisk 2
 sympati 2
 förorena -2
@@ -3037,6 +3064,8 @@ tolerans 2
 tolerant 2
 tandlös -2
 topp 2
+topp 3 2
+topphäst 3
 toppar 2
 slits -2
 tortyr -4
@@ -3101,7 +3130,9 @@ oförmögen -2
 oacceptabelt -2
 omättligt -2
 uppskattad -2
+piggt 2
 ej godkänd -2
+ej att lita på -3
 oattraktivt -2
 inte tillgänglig -1
 fåfäng -2
@@ -3129,6 +3160,7 @@ minerar -2
 underminera -2
 sämre -2
 sämre än -2
+ståtar 2
 presterande -2
 underpresterar -2
 förtjänar -2
@@ -3229,6 +3261,7 @@ victimizing -3
 offer -3
 segrare 3
 segrarna 3
+rejäl seger 3
 seger 3
 segrar 3
 vaksamma 3
@@ -3266,8 +3299,13 @@ kräkningar -3
 kräks -3
 sårbarhet -2
 sårbara -2
+spik 4
 strejk -2
+duger 1
 idiot -3
+tipsetta 4
+missat -2
+bestämma 2
 vill 1
 krig -2
 krigföring -2
@@ -3334,6 +3372,8 @@ försämrats -3
 försämring -3
 förvärras -3
 dyrkade 3
+vasst 3
+vass 3
 värsta -3
 värt 2
 värdelös -2

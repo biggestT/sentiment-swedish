@@ -4,15 +4,19 @@
     {
       "name": "Alex Gustafsson",
       "url": "https://github.com/AlexGustafsson"
+    },
+    {
+      "name": "Tor Nilsson Öhrn",
+      "url": "https://github.com/biggestT"
     }
   ],
-  "name": "sentiment-swedish",
-  "description": "Swedish translated, AFINN-based sentiment analysis for Node.js",
+  "name": "sentiment-swedish-racing",
+  "description": "Swedish translated, tuned for races, AFINN-based sentiment analysis for Node.js",
   "version": "1.1.0",
-  "homepage": "https://github.com/AlexGustafsson/sentiment",
+  "homepage": "https://github.com/biggestT/sentiment",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlexGustafsson/sentiment"
+    "url": "https://github.com/biggestT/sentiment-swedish-racing"
   },
   "keywords": [
     "sentiment",
